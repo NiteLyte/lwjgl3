@@ -27,6 +27,11 @@
         </license>
     </licenses>
 
+    <properties>
+        <sonar.organization>nitelyte</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
+
     <developers>
         <developer>
             <id>spasi</id>
