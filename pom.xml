@@ -30,6 +30,9 @@
     <properties>
         <sonar.organization>nitelyte</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
+        <coverage.lines>.30</coverage.lines>
+		<coverage.branches>.37</coverage.branches>
     </properties>
 
     <developers>
